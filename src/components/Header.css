@@ -1,0 +1,55 @@
+
+
+.nav-link {
+    margin-right: 40px;
+    margin-left: 40px;
+    float: right;
+    
+
+}
+.navbar-nav {
+   
+   
+   z-index: 3;
+   
+}
+.navbar {
+    height: 60px;
+    width: 100%;
+   margin-top: 0 auto;  
+    background-color: rgba(25, 25, 25, 0.9);
+  border-top: 0.5px solid rgb(7, 7, 7);
+  display: block;
+}
+
+#link {
+    color: whitesmoke;
+    float: right;
+   
+}
+#nav {
+    margin-left: 0;
+    margin-right: 0;
+    float: right;
+    
+}
+.name {
+    float: left;
+    color: white;
+    margin-left: 5px;
+    font-family: "Futura", Arial, sans-serif; 
+    font-size: 1.8em;
+}
+
+.title {
+    padding-left: 9px;
+    padding-top: 3px;
+    color: white;
+
+    position: relative;
+    float: left;
+    font-family: "Futura", Arial, sans-serif; 
+    font-size: 1.2em;
+    
+    margin-top: 8px;
+}
