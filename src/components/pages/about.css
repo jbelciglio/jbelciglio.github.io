@@ -2,12 +2,20 @@
     border-top: 25px;
 }
 
-#about {
+#years {
     border-top: 25px; 
     margin-top: 25px;
-    width: 35%;
+    width: 65%;
     margin-left: 50px;
 }
 #list {
     font-size: 16px;
+}
+
+#dreams {
+    border-top: 25px;
+    margin-top: 25px;
+    width: 65%;
+    margin-right: 50px;
+    float: right;
 }
